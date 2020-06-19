@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "nutritionapp-278212",
+  "private_key_id": "77a50565a9c4bdc0d2e5a702efc5149ef8ec2ede",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDLytrrMFtGH3XE\n96aOYJSD8YzNR6SAARHkf42nZdxiv20d/IPJqfhjpuh4USHOzwRXmTXA3/bB3GUn\nN69Skdq2PVd0KfNhZBEQ3IMjMsqzxVorhHSdnbuOSnQUQ4saunhw2r/OK1DuLf0F\n7NZhnd71mbJLhC5DQFi0xvRAivWT3LHeNgbPpzczeuUYdWNywfy9feU7eqHI0kmo\nuem9k2uVs4gS0ZAHInx+hUU1f6GwoFHoq4YRYCbxTcy1ByFyu7RG4Mnn3ozojjgb\nRnm+4bgxgMNDnxqODBqr+13PkoPbu60gJUpPqVxaKlRrlX4G6hNrSHOETotp6/Jt\nJ/mPbESnAgMBAAECggEAAIjrwipCUxDKElZEDaObQC1mHTPO7rcSAPOEv6e4yFmQ\nQ7/h6KmViU1q1sX/vLc2X7R7O6Ja129opI203Bad6FSI4jkp9lt43/50Kad8eLRP\n5EVYuQEs+NahL1xuBQfwQPuR/UyHzdg5DcbtWRw89ZANs70JEgwdL3xGL9Uth9HP\nQew9cKctJzNW36khzKxlVbBG3H8aAZa6FCsG+vmkD1eFp4wZtuOd5mobSuidKGDP\nrGZPWxrqbpzTm39aNFG+RMHk9QRwfYmTYcuoYblaiuMo0il8uSW2T9PiwOomaeZg\nCZnLcV95UvlxYmbBnzek9/UeoKs305QplsJ3QoZuIQKBgQD2Bqhg9f3RXMomeZiI\nhKLrk4Sd5XihZplL1mKENVWirDQW/W2so8QaMAq8J3hsDXdTwA3JoXUaMH03deAt\nQzSkl4hurt93ZXQmzEaKWT6cROgVeQj/0SgxNSh7imzqmsOBLBls9mWjr4IiWrAl\ns0g7cgpIAuHfKVwDlbEFU8x8QwKBgQDUDeHx6prNdrOcY1HAbdSi5hY6Ry3nis5S\n0LH3Y5iF9gbjlcFEJdo7j/UEkSTgz9uFSWKQqBJvsA7EZGvc3EG4nT39lix3x3f0\nehp2RUlo9fhebdlAfbsK5KtSMfEEV5v8XHtteKTqmqG1RkSQ7InAwI2r0ga58y7w\nciyBpEWBzQKBgH0E/xVei5+TTmpkyf09oWiiqvZtwHIMKAQgqilSzPSAG2w/Vjcv\ndRx1o07fo9MMuMGHS7pVYKNxVoATV1rI1vx4wGy2UnpixLZegc4V8boJTgJzYf5V\nM95li+/TdOt2v7hpR3ZWc2nNawy4FuDhjOggWFcll9AGPWrY636wia3vAoGAQ3GW\n50Zire6O+bJtEfLcqmLbtvVkmDwBmz1dHP3ESPcTAddjfLU9T6xdlXJEdGwnuaC5\nhKCwHG22hKgb1kcHcBwy1zCoPABpGoyrVep7irKQqBfv/R8AGlrYUnAn4+Wpav5P\nE2ZHrYY44FrU+/L/bRrQ9FD8aq/5wefOV/1TThECgYEA18NGsSYEDxWZy3ymj21+\nV+ANB6U1Al0cmy6k2Wy4t6nDF4eF+OtOm4Z7wf6xnMgOJQSrmYL98EkmQo4BhA1Y\nB4ZVOpNv7pHLbyuiJVEFwJsl5QHSeCUmN6rmFpUig//eiGMGRuPsnHsCiFQbvqbt\nmr/5q80wwvCQc0/YxChUJEg=\n-----END PRIVATE KEY-----\n",
+  "client_email": "vision-quickstart@nutritionapp-278212.iam.gserviceaccount.com",
+  "client_id": "104605121026363978134",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/vision-quickstart%40nutritionapp-278212.iam.gserviceaccount.com"
+}

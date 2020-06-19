@@ -1,0 +1,9 @@
+extends layout
+
+block content
+  p Welcome to the foodApp
+  img.className#IdName(src="images/dish3.jpg" alt="Hamburger")
+  each label in Labels
+    p #{label.description}    #{label.score}
+  button(type="button" onclick='quickstart()') Label
+

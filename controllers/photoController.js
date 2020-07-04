@@ -57,6 +57,18 @@ class PhotoService {
         return obj;
       })
   }
+
+  static addLabel(photoID, labelID){
+    return Photo.findById(photoID)
+    .then((photo)=>{
+        photo.labels = labelID;
+        photo.save();
+        console.log('getting to add label')
+        return photo;
+    });
+  }
+
+
 }
 
 module.exports.storage = storage;

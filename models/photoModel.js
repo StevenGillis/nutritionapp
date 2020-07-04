@@ -13,7 +13,7 @@ const schema = new Schema({
   size: {type: String, required:true},
   labels: { type: mongoose.Schema.Types.ObjectId, ref: 'Label'},
   createdAt: {type: Date},
-  updatedAt: {type: Date}
+  updatedAt: {type: Date},
 });
 
 schema.pre('save', function(next) {

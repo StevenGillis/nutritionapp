@@ -2,9 +2,9 @@ extends layout
 
 block content
   p Welcome to the foodApp
-  img.className#IdName(src="img/1593353185508-dish1.jpeg" alt="Hamburger")
+  img.className#IdName(src="public/img/"+photoFilePath alt="Hamburger")
   each label in Labels
     p #{label.description}    #{label.score}
-  button(type="button" onclick='quickstart()') Label
+  button(type="button" onclick='getLabels()') Label
 
 
